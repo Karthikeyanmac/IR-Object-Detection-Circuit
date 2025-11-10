@@ -35,6 +35,6 @@ I created a simple IR object detection circuit using an IR LED, photodiode, and 
 14) Connect LED's cathode to (-) of power supply. 
 
 # IR output
-![Circuit diagram]()
+![IR output](https://github.com/Karthikeyanmac/IR-Object-Detection-Circuit/blob/main/IR%20output.png)
 
 For demo video visit my linked in profile www.linkedin.com/in/karthikeyan-s-80b6862b0
