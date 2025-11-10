@@ -1,8 +1,8 @@
 # IR Object Detection Circuit
 I created a simple IR object detection circuit using an IR LED, photodiode, and LM358 as a comparator.  When an object comes near, the IR light reflects onto the photodiode, which changes its voltage. The LM358 compares this with a reference set by a potentiometer, and when the threshold is reached, the indicator LED turns ON.
-# Circuit diagram
-![Circuit diagram](https://github.com/Karthikeyanmac/IR-Object-Detection-Circuit/blob/main/Circuit%20diagram.png)
 
+# Circuit diagram
+![Circuit diagram](https://github.com/Karthikeyanmac/IR-Object-Detection-Circuit/blob/main/Circuit%20diagram.png)\
 
 # Connections
 
@@ -35,5 +35,6 @@ I created a simple IR object detection circuit using an IR LED, photodiode, and 
 14) Connect LED's cathode to (-) of power supply. 
 
 # IR output
+![Circuit diagram]()
 
 For demo video visit my linked in profile www.linkedin.com/in/karthikeyan-s-80b6862b0
